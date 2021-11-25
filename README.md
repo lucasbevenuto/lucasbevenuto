@@ -1,16 +1,10 @@
-### Olá eu sou uma Lucas Bevenuto, estudante de programação e tecnologia!
-
-- ☎ Hoje trabalho como call center 
-- 👨‍💻Estudando  ciências da computação 
-- ❤ amo tecnologia! 
+###  Olá! eu sou o Lucas, estudante de programação e tecnologia!
 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbevenuto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbevenuto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-###
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,3 +27,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 </div>
+
