@@ -1,6 +1,5 @@
 ### Olá eu sou uma Lucas Bevenuto, estudante de programação e tecnologia!
 
-
 - ☎ Hoje trabalho como call center 
 - 👨‍💻Estudando  ciências da computação 
 - ❤ amo tecnologia! 
