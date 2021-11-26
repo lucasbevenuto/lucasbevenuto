@@ -28,3 +28,4 @@
 </div>
 
 ![snake animation](https://github.com/lucasbevenuto/lucasbevenuto/blog/output/github-contribution-grid.snake.svg)
+
