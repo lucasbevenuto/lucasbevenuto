@@ -1,15 +1,15 @@
 ###  Olá! eu sou o Lucas, estudante de programação e tecnologia!
 
 <div>
-   <a href="https://github.com/lucasbevenuto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbevenutol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbevenuto&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/lucasbevenuto">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=lucasbevenuto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140"src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbevenuto&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="Lucas-HTML"<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
  <img align="center" alt="Lucas-Css3"<img src="https://img.icons8.com/color/48/000000/css3.png"/>
- <img align="center" alt="LLucas-JS"<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img align="center" alt="Lucas-JS"<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img align="center" alt="Lucas-Python"<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div><br/>
 
@@ -17,9 +17,8 @@
 
 ##
 
-
 <div>
-
+   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bevenuto-18aa47211/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bevenuto_Lucas)
 </div>
