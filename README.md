@@ -15,7 +15,7 @@
   𝘈𝘱𝘢𝘪𝘹𝘰𝘯𝘢𝘥𝘰 𝘱𝘰𝘳 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘦𝘥𝘶𝘤𝘢ç𝘢𝘰 𝘦 𝘱𝘰𝘳 𝘮𝘶𝘥𝘢𝘳 𝘢 𝘷𝘪𝘥𝘢 𝘥𝘢𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘴 𝘢𝘵𝘳𝘢𝘷𝘦𝘴 𝘥𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢ç𝘢𝘰.
 </div><br>
 
- <img align="right" src="https://media3.giphy.com/media/11YMFLRM0gWZ1u/giphy.gif?cid=82a1493bhkeb6k0ypkx4kxpio3l0tmrebo2488ns0kj78dul&rid=giphy.gif&ct=g" height="100" width="120">
+ <img align="right" src="https://media3.giphy.com/media/11YMFLRM0gWZ1u/giphy.gif?cid=82a1493bhkeb6k0ypkx4kxpio3l0tmrebo2488ns0kj78dul&rid=giphy.gif&ct=g" height="110" width="140">
 
 ##
 
