@@ -11,10 +11,13 @@
  <img align="center" alt="Lucas-JS"<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img align="center" alt="Lucas-Python"<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div><br>
-  
+
+ <img align="right" src="https://media3.giphy.com/media/11YMFLRM0gWZ1u/giphy.gif?cid=82a1493bhkeb6k0ypkx4kxpio3l0tmrebo2488ns0kj78dul&rid=giphy.gif&ct=g" height="100" width="110">
+
+  ##
  𝘈𝘱𝘢𝘪𝘹𝘰𝘯𝘢𝘥𝘰 𝘱𝘰𝘳 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘦𝘥𝘶𝘤𝘢ç𝘢𝘰 𝘦 𝘱𝘰𝘳 𝘮𝘶𝘥𝘢𝘳 𝘢 𝘷𝘪𝘥𝘢 𝘥𝘢𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘴 𝘢𝘵𝘳𝘢𝘷𝘦𝘴 𝘥𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢ç𝘢𝘰.
 
-##
+
 <div>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bevenuto-18aa47211/)
