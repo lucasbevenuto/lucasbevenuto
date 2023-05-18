@@ -10,7 +10,6 @@
  <img align="center" alt="Lucas-Css3"<img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img align="center" alt="Lucas-JS"<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img align="center" alt="Lucas-Python"<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
- <img align="center" alt="Lucas-Java"<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.pngg" width="70" height="60"/>
  <img align="center" alt="Lucas-C"<img src="https://cdn-icons-png.flaticon.com/512/3541/3541190.png" width="50" height="50"/>
  <img align="center" alt="Lucas-Mysql"<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="50" height="50"/>
  <img align="center" alt="Lucas-PHP"<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="65" height=75"/>
