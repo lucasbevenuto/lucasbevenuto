@@ -10,9 +10,7 @@
  <img align="center" alt="Lucas-Css3"<img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img align="center" alt="Lucas-JS"<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img align="center" alt="Lucas-Python"<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
- <img align="center" alt="Lucas-C"<img src="https://cdn-icons-png.flaticon.com/512/3541/3541190.png" width="50" height="50"/>
  <img align="center" alt="Lucas-Mysql"<img src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width="50" height="50"/>
- <img align="center" alt="Lucas-PHP"<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="65" height=75"/>
 </div><br>
   𝘈𝘱𝘢𝘪𝘹𝘰𝘯𝘢𝘥𝘰 𝘱𝘰𝘳 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘦𝘥𝘶𝘤𝘢ç𝘢𝘰 𝘦 𝘱𝘰𝘳 𝘮𝘶𝘥𝘢𝘳 𝘢 𝘷𝘪𝘥𝘢 𝘥𝘢𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘴 𝘢𝘵𝘳𝘢𝘷𝘦𝘴 𝘥𝘢 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢ç𝘢𝘰.
 
