@@ -1,5 +1,14 @@
-### Olaaa, visitante! Sou o Lucas, desenvolvedor Back-end C# .NET Júnior.
+### Olá, visitante! My names is Lucas 🧑‍💻
 ##  
+
+**`.Net Developer`**
+
+- 🚀 Criando soluções de software limpas, escaláveis ​​e de fácil manutenção
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🔥 Apaixonado por tecnologia, ensino e criação de soluções para o mundo real.
+ - Sempre aprendendo e compartilhando conhecimento.
+
+## 💻 Conjunto de tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48"/>
