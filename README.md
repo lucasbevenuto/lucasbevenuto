@@ -1,12 +1,12 @@
 ### Olá, visitante! My names is Lucas 🧑‍💻
 ##  
 
-**`.Net Developer`**
+**`.NET Backend Developer | C# | ASP.NET Core`**
 
-- 🚀 Criando soluções de software limpas, escaláveis ​​e de fácil manutenção
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 🔥 Apaixonado por tecnologia, ensino e criação de soluções para o mundo real.
- - Sempre aprendendo e compartilhando conhecimento.
+- 🚀 Desenvolvendo soluções de software escaláveis e bem estruturadas.
+- 💻 Experiência com APIs REST, SQL Server e integração de sistemas.
+- 🤖 Explorando Inteligência Artificial Generativa e automação.
+- 📚 Sempre aprendendo e evoluindo no universo da tecnologia.
 
 ## 💻 Conjunto de tecnologias:
 
@@ -21,7 +21,7 @@
   <img align="center" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div><br>
 
-𝘋𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘦𝘥𝘰𝘳 𝘣𝘢𝘤𝘬-𝘦𝘯𝘥 𝘧𝘰𝘤𝘢𝘥𝘰 𝘦𝘮 **𝘊#, .𝘕𝘌𝘛 𝚎 𝙿𝚢𝚝𝚘𝚗**, 𝘤𝘰𝘮 𝘦𝘹𝘱𝘦𝘳𝘪𝘦̂𝘯𝘤𝘪𝘢 𝘯𝘢 𝘤𝘳𝘪𝘢𝘤̧𝘢̃𝘰 𝘥𝘦 **𝘈𝘗𝘐𝘴 𝘙𝘌𝘚𝘛 𝘶𝘴𝘢𝘯𝘥𝘰 𝘈𝘚𝘗.𝘕𝘌𝘛 𝘊𝘰𝘳𝘦** 𝘦 𝘣𝘢𝘯𝘤𝘰𝘴 𝘥𝘦 𝘥𝘢𝘥𝘰𝘴 𝘳𝘦𝘭𝘢𝘤𝘪𝘰𝘯𝘢𝘪𝘴. 𝘉𝘶𝘴𝘤𝘰 𝘦𝘷𝘰𝘭𝘶𝘪𝘳 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵𝘦𝘮𝘦𝘯𝘵𝘦, 𝘦𝘴𝘤𝘳𝘦𝘷𝘦𝘯𝘥𝘰 𝘤𝘰́𝘥𝘪𝘨𝘰 𝘭𝘪𝘮𝘱𝘰 𝘦 𝘤𝘰𝘯𝘴𝘵𝘳𝘶𝘪𝘯𝘥𝘰 𝘴𝘰𝘭𝘶𝘤̧𝘰̃𝘦𝘴 𝘱𝘳𝘰́𝘹𝘪𝘮𝘢𝘴 𝘥𝘰 𝘮𝘶𝘯𝘥𝘰 𝘳𝘦𝘢𝘭.
+Interessado em **Inteligência Artificial e IA Generativa**, busco evoluir constantemente, aplicando boas práticas de desenvolvimento e construindo soluções eficientes para problemas do mundo real.
 ##
 
 <div>
